@@ -10,7 +10,7 @@
         |   |                           CAS-PEAL-R1 database.
         |	|
         |	+-<Gallery>		... This directory contains one text file which records the image names 、
-        |   |                       in the Galley.
+        |   |                           in the Galley.
         |	|				    
         |	|
         |	+-<Probe Sets>		... This directory contains seven text files. Each text file records 
