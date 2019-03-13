@@ -17,4 +17,5 @@
 - 使用inception block形式将不同感受野结合
 - 采用leaky relu加快训练
 - 使用L1距离加上logistic回归单元进行预测
+### 模型图片
 ![](images/SiameseNetwork.png)
