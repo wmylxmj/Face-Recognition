@@ -41,6 +41,6 @@
     	|
     	+-<000002>		... Each directory's name is one person's ID.
      |  
-    	...
+     +-<...>
     	|
     	+-<001042>
