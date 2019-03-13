@@ -2,9 +2,8 @@
 
  |
  +-<CAS-PEAL-R1>			... The root directory of this CDROM.
- 
- | |
- | |
+ | 
+ | 
  | +-<Documents>		... The documentation directory. In this directory the pdf version of
  | |				    the technical report of CAS-PEAL database and the CAS-PEAL
  | |			 	    Database Release Agreement can be found.
