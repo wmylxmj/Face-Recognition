@@ -1,6 +1,6 @@
 ### CAS-PEAL-R1 数据集
 
-  |
+  .
   +-<CAS-PEAL-R1>			... The root directory of this CDROM.
 
     |
