@@ -4,7 +4,7 @@
 - 将CAS-PEAL-R1数据集放入datasets文件夹
 - 建立FaceRecognition的类实例
 - 调用prepare方法进行数据处理
-### CAS-PEAL-R1 数据集
+### CAS-PEAL-R1 数据集目录
     +-<CAS-PEAL-R1>			... The root directory of this CDROM.
         |
         |
@@ -52,7 +52,6 @@
         	...
         	|
             +-<001042>
-
 ### 训练模型
 - 建立FaceRecognition的类实例
 - 调用train方法进行训练
