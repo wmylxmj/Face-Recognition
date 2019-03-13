@@ -9,11 +9,13 @@
         +-<Evaluation Prototype>	... This directory contains the evaluation prototype of the 
         |   |                           CAS-PEAL-R1 database.
         |	|
-        |	+-<Gallery>		... This directory contains one text file which records the image names in the Galley.
+        |	+-<Gallery>		... This directory contains one text file which records the image names 、
+        |   |                   in the Galley.
         |	|				    
         |	|
-        |	+-<Probe Sets>		... This directory contains seven text files. Each text file records the image names of
-        |	|			    a specific probe set.
+        |	+-<Probe Sets>		... This directory contains seven text files. Each text file records 
+        |   |                       the image names of a specific probe set.
+        |	|			   
         |	|
         |	+-<Training Set>	... This directory contains one text file which records the image names in the Training
         |			   	    set.
