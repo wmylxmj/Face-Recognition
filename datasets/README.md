@@ -1,8 +1,5 @@
 ### CAS-PEAL-R1 数据集
- The directory tree of this disk is as follows:
-
-| +-<CAS-PEAL-R1>			... The root directory of this CDROM.
-    |
+ <CAS-PEAL-R1>			... The root directory of this CDROM.
     |
     +-<Documents>		... The documentation directory. In this directory the pdf version of
     |				    the technical report of CAS-PEAL database and the CAS-PEAL
@@ -40,7 +37,7 @@
     	+-<000001>		... All the pose images of one person are stored in one directory
     	|
     	+-<000002>		... Each directory's name is one person's ID.
-     |  
-     +-<...>
+   	|
+    	...
     	|
     	+-<001042>
