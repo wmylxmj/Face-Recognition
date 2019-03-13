@@ -17,8 +17,9 @@
         |   |                           the image names of a specific probe set.
         |	|			   
         |	|
-        |	+-<Training Set>	... This directory contains one text file which records the image names in the Training
-        |			   	    set.
+        |	+-<Training Set>	... This directory contains one text file which records the image names 
+        |                           in the Training set.
+        |			   	   
         |	
         +-<FRONTAL>			... Frontal Subset of CAS-PEAL-R1
         |	|
