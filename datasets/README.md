@@ -38,7 +38,7 @@
     	+-<000001>		... All the pose images of one person are stored in one directory
     	|
     	+-<000002>		... Each directory's name is one person's ID.
-   	|
+    	|
     	...
     	|
     	+-<001042>
