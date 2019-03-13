@@ -15,7 +15,7 @@
         +-<Evaluation Prototype>	... This directory contains the evaluation prototype of the 
         |   |                           CAS-PEAL-R1 database.
         |	|
-        |	+-<Gallery>		... This directory contains one text file which records the image names 、
+        |	+-<Gallery>		... This directory contains one text file which records the image names  
         |   |                           in the Galley.
         |	|				    
         |	|
