@@ -6,7 +6,8 @@
         |				    the technical report of CAS-PEAL database and the CAS-PEAL
         |			 	    Database Release Agreement can be found.
         |
-        +-<Evaluation Prototype>	... This directory contains the evaluation prototype of the CAS-PEAL-R1 database.
+        +-<Evaluation Prototype>	... This directory contains the evaluation prototype of the 
+        |   |                       CAS-PEAL-R1 database.
         |	|
         |	+-<Gallery>		... This directory contains one text file which records the image names in the Galley.
         |	|				    
