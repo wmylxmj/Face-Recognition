@@ -18,7 +18,7 @@
         |	|			   
         |	|
         |	+-<Training Set>	... This directory contains one text file which records the image names 
-        |                           in the Training set.
+        |                               in the Training set.
         |			   	   
         |	
         +-<FRONTAL>			... Frontal Subset of CAS-PEAL-R1
