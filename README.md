@@ -61,6 +61,7 @@
 - 调用predict方法进行预测，输入为图片文件路径，输出1为同一人，输出0为不同人
 - 训练好的权重下载地址
 - 链接：https://pan.baidu.com/s/1YinGcQ8_4FKRKrIo0fd7Xw 提取码：7iog 
+- 注意：预测图片尽量与CAS-PEAL-R1图片的size类似（360*480）
 ### 关于模型
 - 借鉴ResNet50
 - 采用多个小卷积核级联的形式提高感受野
