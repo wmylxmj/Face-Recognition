@@ -59,6 +59,8 @@
 ### 预测模型
 - 建立FaceRecognition的类实例
 - 调用predict方法进行预测，输入为图片文件路径，输出1为同一人，输出0为不同人
+- 训练好的权重下载地址
+- 链接：https://pan.baidu.com/s/1YinGcQ8_4FKRKrIo0fd7Xw 提取码：7iog 
 ### 关于模型
 - 借鉴ResNet50
 - 采用多个小卷积核级联的形式提高感受野
